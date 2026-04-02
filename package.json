@@ -93,5 +93,6 @@
   "onlyBuiltDependencies": [
     "@tailwindcss/oxide",
     "esbuild"
-  ]
+   ]
+  }
 }
